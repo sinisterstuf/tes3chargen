@@ -1,8 +1,21 @@
 body {
-  background-color: #282c34;
+  background-color: #ffecb3;
+}
+
+.main {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
+}
+
+.question-text {
+  padding: 20px;
+  padding-bottom: 10px;
+  background-color: #b3c6ff;
+}
+
+.question-choices {
+  padding: 20px;
+  padding-top: 10px;
 }
