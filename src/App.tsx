@@ -38,7 +38,7 @@ const App: React.FC = () => {
   return (
     <ThemeProvider theme={theme}>
       <Container className="main" maxWidth="md">
-        <Paper variant="outlined" className="question">
+        <Paper elevation={4} square className="question">
           <Typography className="question-text" variant="h6">
             On a clear day you chance upon a strange animal, its leg trapped in a hunter's clawsnare. Judging from the bleeding it will not survive long.
           </Typography>
