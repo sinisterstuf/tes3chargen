@@ -8,14 +8,3 @@ body {
   flex-direction: column;
   justify-content: center;
 }
-
-.question-text {
-  padding: 20px;
-  padding-bottom: 10px;
-  background-color: #b3c6ff;
-}
-
-.question-choices {
-  padding: 20px;
-  padding-top: 10px;
-}
